@@ -1,0 +1,12 @@
+.container{
+    position: relative;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 1rem;
+    margin-top: 5px;
+}
+.blogs-Calculation{
+    position: sticky;
+    height: 700px;
+    top: 1px;
+}
